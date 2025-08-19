@@ -1,3 +1,5 @@
+I'm not sure why I even made this but I did and I forgot to make the py file open-source and now its lost so don't except anything to be good lol
+
 # PyMail
 The new app for sending E-Mails! Why is it called PyMail? Because it is made in **Python**!
 
